@@ -1,0 +1,15 @@
+C:\Users\nizam\Desktop\1Test\1Test\bin\Debug\net6.0\1Test.exe
+C:\Users\nizam\Desktop\1Test\1Test\bin\Debug\net6.0\1Test.deps.json
+C:\Users\nizam\Desktop\1Test\1Test\bin\Debug\net6.0\1Test.runtimeconfig.json
+C:\Users\nizam\Desktop\1Test\1Test\bin\Debug\net6.0\1Test.dll
+C:\Users\nizam\Desktop\1Test\1Test\bin\Debug\net6.0\1Test.pdb
+C:\Users\nizam\Desktop\1Test\1Test\obj\Debug\net6.0\1Test.csproj.AssemblyReference.cache
+C:\Users\nizam\Desktop\1Test\1Test\obj\Debug\net6.0\1Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizam\Desktop\1Test\1Test\obj\Debug\net6.0\1Test.AssemblyInfoInputs.cache
+C:\Users\nizam\Desktop\1Test\1Test\obj\Debug\net6.0\1Test.AssemblyInfo.cs
+C:\Users\nizam\Desktop\1Test\1Test\obj\Debug\net6.0\1Test.csproj.CoreCompileInputs.cache
+C:\Users\nizam\Desktop\1Test\1Test\obj\Debug\net6.0\1Test.dll
+C:\Users\nizam\Desktop\1Test\1Test\obj\Debug\net6.0\refint\1Test.dll
+C:\Users\nizam\Desktop\1Test\1Test\obj\Debug\net6.0\1Test.pdb
+C:\Users\nizam\Desktop\1Test\1Test\obj\Debug\net6.0\1Test.genruntimeconfig.cache
+C:\Users\nizam\Desktop\1Test\1Test\obj\Debug\net6.0\ref\1Test.dll
